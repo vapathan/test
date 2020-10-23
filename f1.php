@@ -7,3 +7,7 @@
  */
 
 echo "hello";
+?>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto asperiores blanditiis consequatur cumque dolorem
+    dolorum inventore iure necessitatibus odit porro possimus reiciendis repellendus rerum sapiente sint, sunt, suscipit
+    velit voluptatum.</p>
